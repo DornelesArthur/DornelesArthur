@@ -2,15 +2,15 @@
 
 ## Welcome to my GitHub profile. Here you can see what I'm currently studying and my small projects.
 
-## My name is Arthur Haas Dorneles, I'm 23 years old future Bachelor of Computer Science in Brazil. I'm going to graduate in the middle of 2023.
+## My name is Arthur Haas Dorneles, I'm 23 years old future Bachelor of Computer Science in 🇧🇷. I'm going to graduate in the middle of 2023.
 
 ## My current job:
 
 - 🔭 I’m currently working on beecrowd.com.br, a digital plataform with thousand of programming exercicies for teaching, recruting or traning by yourself. I'm responsabel for mantaning the website and the API's on beecrowd.
 
-## : My knowledge:
+## 🧠 My knowledge:
 
-### Technologies or subjects that I use every day work or have more knowledge of:
+### 👨‍💻 Technologies or subjects that I use every day work or have more knowledge of:
 
 - <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--  📫 How to reach me: ...
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
