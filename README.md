@@ -31,6 +31,8 @@
           
 ## 🌱 What I'm studying:
 
+- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
+
 ## 📱 How to reach me:
 
 - <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> https://www.linkedin.com/in/arthur-haas-dorneles/
