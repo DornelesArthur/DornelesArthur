@@ -2,56 +2,33 @@
 
 - Welcome to my GitHub profile. Here you can see what I'm currently studying and my small projects.
 
-- My name is Arthur Haas Dorneles, I'm 23 years old future Bachelor of Computer Science in 🇧🇷. I'm going to graduate in the middle of 2023.
+- My name is Arthur Haas Dorneles, I'm a Bachelor of Computer Science in 🇧🇷. I'm going to graduate in the middle of 2023.
 
-## 🧑‍💼 My current job:
+- I'm interested in Data (Data Science and Data Engineering), IA, and Backend Development.
 
-- 🔭 I’m currently working on beecrowd.com.br, a digital plataform with thousand of programming exercicies for teaching, recruting or traning by yourself. I'm responsabel for mantaning the website and the API's on beecrowd.
+***<p style="text-align: center;">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DornelesArthur&theme=tokyonight&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DornelesArthur&layout=compact&theme=tokyonight&langs_count=8)</p>***
 
-## 🧠 My knowledge:
+#
 
-### 👨‍💻 Technologies or subjects that I use every day work or have more knowledge of:
+### Technologies or subjects that I use every day work or have more knowledge of:
 
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
+***<p style="text-align: left;">![Python](https://img.shields.io/badge/Python-555?style=for-the-badge&logo=python) ![PHP](https://img.shields.io/badge/PHP-555?style=for-the-badge&logo=php) ![CakePHP](https://img.shields.io/badge/CakePHP-555?style=for-the-badge&logo=cakephp) ![Bash](https://img.shields.io/badge/Bash-555?style=for-the-badge&logo=gnubash) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=for-the-badge&logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-555?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-555?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Linux-555?style=for-the-badge&logo=linux)</p>***
 
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP
-
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" /> CakePHP
-
-- <img style="height:15px" style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash
-
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> PostgreSQL
-
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Docker
-
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> Git
-
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> Linux (Ubuntu)
-
+#
           
-## 🌱 What I'm studying:
+### What I'm studying:
 
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
+***<p style="text-align: left;">![Python](https://img.shields.io/badge/Python-555?style=for-the-badge&logo=python) ![Go](https://img.shields.io/badge/GO-555?style=for-the-badge&logo=go) </p>***
 
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Docker
+#
 
-## 📱 How to reach me:
+### What I am interested in learning at some point:
 
-- <img style="height:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> https://www.linkedin.com/in/arthur-haas-dorneles/
+***<p style="text-align: left;">![TensorFlow](https://img.shields.io/badge/TensorFlow-555?style=for-the-badge&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-555?style=for-the-badge&logo=pandas) ![Redis](https://img.shields.io/badge/Redis-555?style=for-the-badge&logo=redis) ![MongoDB](https://img.shields.io/badge/MongoDB-555?style=for-the-badge&logo=mongodb) ![Django](https://img.shields.io/badge/Django-555?style=for-the-badge&logo=django) ![Numpy](https://img.shields.io/badge/Numpy-555?style=for-the-badge&logo=numpy) ![Kubernetes](https://img.shields.io/badge/Kubernetes-555?style=for-the-badge&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-555?style=for-the-badge&logo=amazon-aws) ![Spark](https://img.shields.io/badge/Spark-555?style=for-the-badge&logo=apache-spark)</p>***
 
-- 📫 dorneles.ah@gmail.com
+#
+***<p style="text-align: center;">[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/arthur-haas-dorneles/) [![Instagram](https://img.shields.io/badge/Instagram-555?style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurhdorneles/) [![GMail](https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail)](mailto:arthhdorneles@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/DornelesArthur) [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-555?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22218487/dornelesarthur)</p>***
 
-<!--
-**DornelesArthur/DornelesArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
